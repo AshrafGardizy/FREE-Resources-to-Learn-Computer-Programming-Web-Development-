@@ -19,3 +19,5 @@ Python is an easy to learn, powerful programming language. It has efficient high
 
 6. Python official documentation give you a comprehension and deep knowledge of python programming language from basic to advance level. [Python Official Docs](https://docs.python.org/3/)
 
+7. If you wand to learn Python from scratch in easy way please follow th Python Tutorial Website. The Python Tutorial offers you understanding of the Python programming language, help you deeply learn the concepts, and show you how to apply practical programming techniques to your specific challenges. [Python Tutorial](https://www.pythontutorial.net/)
+
